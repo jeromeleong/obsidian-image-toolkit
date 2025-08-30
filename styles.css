@@ -5,10 +5,6 @@ body {
     --layer-menu: 1027;
 }
 
-.menu {
-    z-index: var(--layer-menu);
-}
-
 .notice-container {
     z-index: var(--layer-image-toolkit-notice);
 }
